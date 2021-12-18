@@ -611,7 +611,9 @@ h1 {
     }
 
     .footer-social-link {
-        text-align: center;
+        display: flex;
+        justify-content: flex-start;
+        margin: auto;
     }
 
     .footer-explore h3 {
